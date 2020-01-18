@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "5062e9a9-912f-34a6-a45c-a07bffbbb36c",
+    "name": "nelhio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "92c77177-4c6e-3d76-a164-393494b6c002",
+    "name": "Nhelio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cf27bee1-6b3d-4e30-b017-1b1198a2331c",
+    "name": "Nhelio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "74005dea-f133-3b64-b5b1-e6f2e39d2c87",
+    "name": "nhekio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
