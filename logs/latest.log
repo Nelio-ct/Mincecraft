@@ -1,0 +1,73 @@
+[17:47:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:47:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:47:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:47:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:47:26] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[17:47:26] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[17:47:26] [Server thread/INFO]: Loading properties
+[17:47:26] [Server thread/INFO]: Default game type: SURVIVAL
+[17:47:26] [Server thread/INFO]: Generating keypair
+[17:47:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[17:47:26] [Server thread/INFO]: Starting Minecraft server on 25.74.190.169:25565
+[17:47:26] [Server thread/INFO]: Using default channel type
+[17:47:28] [Server thread/INFO]: Preparing level "world"
+[17:47:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:47:54] [Server thread/INFO]: Loaded 6 recipes
+[17:47:55] [Server thread/INFO]: Loaded 811 advancements
+[17:47:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:47:58] [Server thread/INFO]: Time elapsed: 3495 ms
+[17:47:58] [Server thread/INFO]: Done (30.578s)! For help, type "help"
+[17:47:58] [Server thread/INFO]: Starting GS4 status listener
+[17:47:58] [Query Listener #1/INFO]: Query running on 25.74.190.169:25565
+[17:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7708ms or 154 ticks behind
+[17:53:56] [User Authenticator #1/INFO]: UUID of player Nhelio is cf27bee1-6b3d-4e30-b017-1b1198a2331c
+[17:53:57] [Server thread/INFO]: Nhelio[/25.74.190.169:50907] logged in with entity id 208 at (-33.7608181044249, 68.1082870772188, 28.084598146483557)
+[17:53:57] [Server thread/INFO]: Nhelio joined the game
+[17:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[17:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[17:56:16] [Server thread/WARN]: Nhelio moved too quickly! 0.0,-10.612022956862141,0.0
+[17:56:17] [Server thread/WARN]: Nhelio moved too quickly! 0.0,-11.694736062225516,0.0
+[17:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[18:02:26] [Server thread/INFO]: Nhelio lost connection: Disconnected
+[18:02:26] [Server thread/INFO]: Nhelio left the game
+[18:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[18:13:23] [User Authenticator #2/INFO]: UUID of player Nhelio is cf27bee1-6b3d-4e30-b017-1b1198a2331c
+[18:13:23] [Server thread/INFO]: Nhelio[/25.74.190.169:51002] logged in with entity id 1581 at (292.3343026239175, 70.0, 403.47312415700327)
+[18:13:23] [Server thread/INFO]: Nhelio joined the game
+[18:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[18:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6557ms or 131 ticks behind
+[18:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[18:14:33] [User Authenticator #3/INFO]: UUID of player Simiah_ is 79982ef7-d330-4db3-97ed-61ac233b81c8
+[18:14:34] [Server thread/INFO]: Simiah_[/25.84.110.62:49808] logged in with entity id 1942 at (-246.77991666400564, 69.0, -164.92784404256494)
+[18:14:34] [Server thread/INFO]: Simiah_ joined the game
+[18:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17842ms or 356 ticks behind
+[18:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51372ms or 1027 ticks behind
+[18:16:59] [Server Watchdog/FATAL]: A single server tick took 60.35 seconds (should be max 0.05)
+[18:16:59] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:16:59] [Server Watchdog/ERROR]: This crash report has been saved to: D:\Documents\minecraft\.\crash-reports\crash-2020-01-19_18.16.59-server.txt
+[18:17:00] [Server thread/INFO]: Stopping server
+[18:17:00] [Server thread/INFO]: Saving players
+[18:17:00] [Server thread/INFO]: Nhelio lost connection: Internal Exception: java.lang.StackOverflowError
+[18:17:00] [Server thread/INFO]: Nhelio left the game
+[18:17:01] [Server thread/INFO]: Saving worlds
+[18:17:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
